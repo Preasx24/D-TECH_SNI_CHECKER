@@ -45,5 +45,5 @@
 After installing the required packages, run the D-TECH SNI Host Checker script by executing:
 
 ```bash
-python D-TECH_SNI_CHECKER.py
+python DTECH_SNI_CHECKER.py
 ```
