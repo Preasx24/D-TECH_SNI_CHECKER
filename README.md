@@ -8,7 +8,9 @@ To run the D-TECH SNI Host Checker, make sure you have the following packages in
 
 ### Installation Steps
 
+
 1. **Update and Upgrade Package Manager:**
+
    ```bash
    pkg update && pkg upgrade -y
    ```
