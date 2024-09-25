@@ -1,8 +1,7 @@
-```markdown
 # D-TECH SNI Host Checker
 
-1. **Update Package Manager:**
-   ```bash
+
+```
    pkg update 
    pkg upgrade
    ```
